@@ -51,7 +51,7 @@ The service will run whole genome alignment on the pairs of genomes.
 The output consists of a multiple alignment object and a visual
 circular view of the genome rearrangements and inversions. 
 
-![Image of Genome Rearrangement](images/Genome-rearrangement.png)
+![Image of Genome Rearrangement](images/Genome-rearrangements.png)
 
 
 ### Future methods 
