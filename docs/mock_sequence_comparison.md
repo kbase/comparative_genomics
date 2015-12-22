@@ -16,7 +16,7 @@ sequence-level similarity matrix.
 
 ![Image of DNAdiff similarity matrix](images/DNAdiff-matrix.png)
 
-
+![Image of DNAdiff report](images/DNAdiff-report.png)
 
 
 
