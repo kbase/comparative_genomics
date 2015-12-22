@@ -54,7 +54,9 @@ circular view of the genome rearrangements and inversions.
 ![Image of Genome Rearrangement](images/Genome-rearrangements.png)
 
 
-### Future methods 
+### Future methods
+
+The following methods will be integrated into the comparative genomics app:
 
 - Proteome Comparison v2
 
