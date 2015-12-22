@@ -1,15 +1,17 @@
 
-## Genome Sequence Comparison Workflow (Mock Narrative Method)
+## Comparative Genomics Workflows (Mock Narrative Method)
 
-### Input 
+### Method 1: Genome Sequence Comparison
+
+#### Input 
 
 Select a set of genomes to be compared.
 
-### Computation
+#### Computation
 
 The service will run all-to-all DNAdiff comparisons for the genome pairs. 
 
-### Output
+#### Output
 
 The output consists of a downloadable report file and a visual
 sequence-level similarity matrix.
